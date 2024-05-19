@@ -1,0 +1,16 @@
+.about {
+    height: 76vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+.about1 {
+    height: 350px;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4%;
+}

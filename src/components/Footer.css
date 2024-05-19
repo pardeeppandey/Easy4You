@@ -1,0 +1,28 @@
+.social-media {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 50px;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+
+}
+
+.foot {
+    height: 40px;
+    width: 300px;
+}
+
+.foot1 {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.social-media:active {
+    box-shadow: 0 0 5px 0 black;
+}

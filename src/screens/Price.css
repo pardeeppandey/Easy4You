@@ -1,0 +1,18 @@
+.pricediv {
+
+    display: flex;
+}
+
+.pricediv1 {
+    height: 500px;
+    width: 1000px;
+}
+
+.pricediv2 {
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+
+
+

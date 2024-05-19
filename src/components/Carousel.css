@@ -1,0 +1,38 @@
+   .slider1 {
+       width: 60%;
+       display: flex;
+       gap: 60px;
+       margin-left: 60px;
+   }
+
+   .slider2 {
+       height: 50%;
+       width: 95%;
+       display: flex;
+       gap: 80px;
+
+   }
+
+   .second {
+       width: 50%;
+       display: flex;
+       justify-content: center;
+       align-items: last baseline;
+       flex-direction: column;
+       gap: 10px;
+       font-weight: bolder;
+   }
+
+   .third {
+       display: flex;
+   }
+
+   .input {
+
+       width: 370px;
+       padding: 12px;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       margin-top: 5px;
+
+   }

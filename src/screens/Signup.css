@@ -1,0 +1,33 @@
+.card_0 {
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4%;
+}
+
+.card_1 {
+    height: 170px;
+    width: 300px;
+    border-radius: 20%;
+    background-image: linear-gradient(to right, rgba(79, 202, 89, 0.5), rgb(3, 122, 53));
+}
+
+.in {
+    padding: 10px 20px;
+    color: black;
+    font-size: 33px;
+}
+
+.in_in {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.img {
+    height: 300px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

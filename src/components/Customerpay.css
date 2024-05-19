@@ -1,0 +1,20 @@
+.customerpay{
+    display:flex;
+}
+.customerpay1{
+    display:flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+.customerpay2{
+    display:flex;
+}
+.customerinput {
+    width: 250px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
